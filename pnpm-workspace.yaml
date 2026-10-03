@@ -1,0 +1,4 @@
+storeDir: "${PNPM_STORE_DIR:-../.pnpm-store}"
+packageImportMethod: hardlink
+allowBuilds:
+  esbuild: true

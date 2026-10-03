@@ -1,0 +1,350 @@
+{
+  "checkedAt": "2026-10-03",
+  "method": "YouTube public oEmbed metadata; no video download or full-content review",
+  "resources": [
+    {
+      "id": "WP3hjUXd918",
+      "url": "https://www.youtube.com/watch?v=WP3hjUXd918",
+      "listedTitle": "Context Engineering in 2026: Compaction, Memory & Cost",
+      "youtubeTitle": "Context Engineering in 2026 \u2014 Louis-Fran\u00e7ois Bouchard, Omar Solano & Samridhi Vaid, Towards AI",
+      "channel": "AI Engineer",
+      "channelUrl": "https://www.youtube.com/@aiDotEngineer"
+    },
+    {
+      "id": "MkRYPFIMCSA",
+      "url": "https://www.youtube.com/watch?v=MkRYPFIMCSA",
+      "listedTitle": "Security Firewall for Agents",
+      "youtubeTitle": "Security Firewall for Agents \u2014 Ryan Dahl, Deno",
+      "channel": "AI Engineer",
+      "channelUrl": "https://www.youtube.com/@aiDotEngineer"
+    },
+    {
+      "id": "17-YSUHo6Lk",
+      "url": "https://www.youtube.com/watch?v=17-YSUHo6Lk",
+      "listedTitle": "Agentic SDLC at Uber",
+      "youtubeTitle": "Building Blocks for Uber\u2019s Software Factory\u2014 Uday Kiran Medisetty & Adam Huda, Uber",
+      "channel": "AI Engineer",
+      "channelUrl": "https://www.youtube.com/@aiDotEngineer"
+    },
+    {
+      "id": "_ehJyfHg1Vk",
+      "url": "https://www.youtube.com/watch?v=_ehJyfHg1Vk",
+      "listedTitle": "The Era of Compound Engineering",
+      "youtubeTitle": "The Era of Compound Engineering \u2014 Kieran Klaassen, Every/Cora",
+      "channel": "AI Engineer",
+      "channelUrl": "https://www.youtube.com/@aiDotEngineer"
+    },
+    {
+      "id": "7GMKdpLsxwU",
+      "url": "https://www.youtube.com/watch?v=7GMKdpLsxwU",
+      "listedTitle": "The Missing Layer: Design Taste in AI Agents",
+      "youtubeTitle": "The Missing Layer: Design Taste in AI Agents \u2014 Hassan El Mghari, Together AI",
+      "channel": "AI Engineer",
+      "channelUrl": "https://www.youtube.com/@aiDotEngineer"
+    },
+    {
+      "id": "C0ZUdFg-iTo",
+      "url": "https://www.youtube.com/watch?v=C0ZUdFg-iTo",
+      "listedTitle": "AI Engineering 101",
+      "youtubeTitle": "[Workshop] AI Engineering 101",
+      "channel": "AI Engineer",
+      "channelUrl": "https://www.youtube.com/@aiDotEngineer"
+    },
+    {
+      "id": "LzeC1AQ-U5o",
+      "url": "https://www.youtube.com/watch?v=LzeC1AQ-U5o",
+      "listedTitle": "Building Blocks for LLM Systems and Products",
+      "youtubeTitle": "Building Blocks for LLM Systems & Products: Eugene Yan",
+      "channel": "AI Engineer",
+      "channelUrl": "https://www.youtube.com/@aiDotEngineer"
+    },
+    {
+      "id": "T0HhO4YtTfE",
+      "url": "https://www.youtube.com/watch?v=T0HhO4YtTfE",
+      "listedTitle": "AI System Design: From Idea to Production",
+      "youtubeTitle": "AI System Design: From Idea to Production - Apoorva Joshi, MongoDB",
+      "channel": "AI Engineer",
+      "channelUrl": "https://www.youtube.com/@aiDotEngineer"
+    },
+    {
+      "id": "4Xe_iMYxBQc",
+      "url": "https://www.youtube.com/watch?v=4Xe_iMYxBQc",
+      "listedTitle": "Information Retrieval from the Ground Up",
+      "youtubeTitle": "Information Retrieval from the Ground Up - Philipp Krenn, Elastic",
+      "channel": "AI Engineer",
+      "channelUrl": "https://www.youtube.com/@aiDotEngineer"
+    },
+    {
+      "id": "kPL-6-9MVyA",
+      "url": "https://www.youtube.com/watch?v=kPL-6-9MVyA",
+      "listedTitle": "RAG Agents in Production: 10 Lessons We Learned",
+      "youtubeTitle": "RAG Agents in Prod: 10 Lessons We Learned \u2014\u00a0Douwe Kiela, creator of RAG",
+      "channel": "AI Engineer",
+      "channelUrl": "https://www.youtube.com/@aiDotEngineer"
+    },
+    {
+      "id": "EcqMYoIV57A",
+      "url": "https://www.youtube.com/watch?v=EcqMYoIV57A",
+      "listedTitle": "Why More Context Makes Your Agent Dumber",
+      "youtubeTitle": "Why More Context Makes Your Agent Dumber and What to Do About It \u2014 Nupur Sharma, Qodo",
+      "channel": "AI Engineer",
+      "channelUrl": "https://www.youtube.com/@aiDotEngineer"
+    },
+    {
+      "id": "D7_ipDqhtwk",
+      "url": "https://www.youtube.com/watch?v=D7_ipDqhtwk",
+      "listedTitle": "How We Build Effective Agents",
+      "youtubeTitle": "How We Build Effective Agents: Barry Zhang, Anthropic",
+      "channel": "AI Engineer",
+      "channelUrl": "https://www.youtube.com/@aiDotEngineer"
+    },
+    {
+      "id": "8kMaTybvDUw",
+      "url": "https://www.youtube.com/watch?v=8kMaTybvDUw",
+      "listedTitle": "12-Factor Agents",
+      "youtubeTitle": "12-Factor Agents: Patterns of reliable LLM applications\u00a0\u2014\u00a0Dex Horthy, HumanLayer",
+      "channel": "AI Engineer",
+      "channelUrl": "https://www.youtube.com/@aiDotEngineer"
+    },
+    {
+      "id": "CEvIs9y1uog",
+      "url": "https://www.youtube.com/watch?v=CEvIs9y1uog",
+      "listedTitle": "Do Not Build Agents, Build Skills Instead",
+      "youtubeTitle": "Don't Build Agents, Build Skills Instead \u2013 Barry Zhang & Mahesh Murag, Anthropic",
+      "channel": "AI Engineer",
+      "channelUrl": "https://www.youtube.com/@aiDotEngineer"
+    },
+    {
+      "id": "kQmXtrmQ5Zg",
+      "url": "https://www.youtube.com/watch?v=kQmXtrmQ5Zg",
+      "listedTitle": "Building Agents with Model Context Protocol",
+      "youtubeTitle": "Building Agents with Model Context Protocol - Full Workshop with Mahesh Murag of Anthropic",
+      "channel": "AI Engineer",
+      "channelUrl": "https://www.youtube.com/@aiDotEngineer"
+    },
+    {
+      "id": "jJ45Yz1lJao",
+      "url": "https://www.youtube.com/watch?v=jJ45Yz1lJao",
+      "listedTitle": "Why Should Anyone Care About Evals?",
+      "youtubeTitle": "Why should anyone care about Evals? \u2014\u00a0Manu Goyal, Braintrust",
+      "channel": "AI Engineer",
+      "channelUrl": "https://www.youtube.com/@aiDotEngineer"
+    },
+    {
+      "id": "bk0TmxoZlUY",
+      "url": "https://www.youtube.com/watch?v=bk0TmxoZlUY",
+      "listedTitle": "Evals 101",
+      "youtubeTitle": "Evals 101 \u2014 Doug Guthrie, Braintrust",
+      "channel": "AI Engineer",
+      "channelUrl": "https://www.youtube.com/@aiDotEngineer"
+    },
+    {
+      "id": "d5EltXhbcfA",
+      "url": "https://www.youtube.com/watch?v=d5EltXhbcfA",
+      "listedTitle": "Building and Evaluating AI Agents",
+      "youtubeTitle": "Building and evaluating AI Agents\u00a0\u2014\u00a0Sayash Kapoor, AI Snake Oil",
+      "channel": "AI Engineer",
+      "channelUrl": "https://www.youtube.com/@aiDotEngineer"
+    },
+    {
+      "id": "a4BV0gGmXgA",
+      "url": "https://www.youtube.com/watch?v=a4BV0gGmXgA",
+      "listedTitle": "Five Hard-Earned Lessons About Evals",
+      "youtubeTitle": "Five hard earned lessons about Evals \u2014\u00a0Ankur Goyal, Braintrust",
+      "channel": "AI Engineer",
+      "channelUrl": "https://www.youtube.com/@aiDotEngineer"
+    },
+    {
+      "id": "0vBKv9yAQi4",
+      "url": "https://www.youtube.com/watch?v=0vBKv9yAQi4",
+      "listedTitle": "The Agent Development Life Cycle",
+      "youtubeTitle": "The Agent Development Life Cycle \u2014\u00a0Zack Reneau-Wedeen, Sierra",
+      "channel": "AI Engineer",
+      "channelUrl": "https://www.youtube.com/@aiDotEngineer"
+    },
+    {
+      "id": "1izYWsokr9s",
+      "url": "https://www.youtube.com/watch?v=1izYWsokr9s",
+      "listedTitle": "Scaling AI Agents Without Breaking Reliability",
+      "youtubeTitle": "Scaling AI Agents Without Breaking Reliability \u2014 Preeti Somal, Temporal",
+      "channel": "AI Engineer",
+      "channelUrl": "https://www.youtube.com/@aiDotEngineer"
+    },
+    {
+      "id": "k8cnVCMYmNc",
+      "url": "https://www.youtube.com/watch?v=k8cnVCMYmNc",
+      "listedTitle": "Building Durable, Production-Ready Agents",
+      "youtubeTitle": "OpenAI + @Temporalio : Building Durable, Production Ready Agents - Cornelia Davis, Temporal",
+      "channel": "AI Engineer",
+      "channelUrl": "https://www.youtube.com/@aiDotEngineer"
+    },
+    {
+      "id": "w7IMuYsBNr8",
+      "url": "https://www.youtube.com/watch?v=w7IMuYsBNr8",
+      "listedTitle": "OpenAI on Securing Code-Executing AI Agents",
+      "youtubeTitle": "OpenAI on Securing Code-Executing AI Agents \u2014\u00a0Fouad Matin (Codex, Agent Robustness)",
+      "channel": "AI Engineer",
+      "channelUrl": "https://www.youtube.com/@aiDotEngineer"
+    },
+    {
+      "id": "blmAkayzE8M",
+      "url": "https://www.youtube.com/watch?v=blmAkayzE8M",
+      "listedTitle": "How to Secure Agents Using OAuth",
+      "youtubeTitle": "How to Secure Agents using OAuth \u2014 Jared Hanson (Keycard, Passport.js)",
+      "channel": "AI Engineer",
+      "channelUrl": "https://www.youtube.com/@aiDotEngineer"
+    },
+    {
+      "id": "BurJvbqFr4c",
+      "url": "https://www.youtube.com/watch?v=BurJvbqFr4c",
+      "listedTitle": "Your Insecure MCP Server Will Not Survive Production",
+      "youtubeTitle": "Your Insecure MCP Server Won't Survive Production \u2014\u00a0Tun Shwe, Lenses",
+      "channel": "AI Engineer",
+      "channelUrl": "https://www.youtube.com/@aiDotEngineer"
+    },
+    {
+      "id": "mR-WAvEPRwE",
+      "url": "https://www.youtube.com/watch?v=mR-WAvEPRwE",
+      "listedTitle": "Build Agents That Run for Hours",
+      "youtubeTitle": "Anthropic Workshop: Build Agents That Run for Hours \u2014 Ash Prabaker & Andrew Wilson",
+      "channel": "AI Engineer",
+      "channelUrl": "https://www.youtube.com/@aiDotEngineer"
+    },
+    {
+      "id": "W2HVdB4Jbjs",
+      "url": "https://www.youtube.com/watch?v=W2HVdB4Jbjs",
+      "listedTitle": "Architecting Agent Memory",
+      "youtubeTitle": "Architecting Agent Memory: Principles, Patterns, and Best Practices \u2014 Richmond Alake, MongoDB",
+      "channel": "AI Engineer",
+      "channelUrl": "https://www.youtube.com/@aiDotEngineer"
+    },
+    {
+      "id": "flf_IKnFYnE",
+      "url": "https://www.youtube.com/watch?v=flf_IKnFYnE",
+      "listedTitle": "From Stateless Nightmares to Durable Agents",
+      "youtubeTitle": "From Stateless Nightmares to Durable Agents \u2014 Samuel Colvin, Pydantic",
+      "channel": "AI Engineer",
+      "channelUrl": "https://www.youtube.com/@aiDotEngineer"
+    },
+    {
+      "id": "Lue8K2jqfKk",
+      "url": "https://www.youtube.com/watch?v=Lue8K2jqfKk",
+      "listedTitle": "Claude Code and the Evolution of Agentic Coding",
+      "youtubeTitle": "Claude Code & the evolution of agentic coding \u2014 Boris Cherny, Anthropic",
+      "channel": "AI Engineer",
+      "channelUrl": "https://www.youtube.com/@aiDotEngineer"
+    },
+    {
+      "id": "am_oeAoUhew",
+      "url": "https://www.youtube.com/watch?v=am_oeAoUhew",
+      "listedTitle": "Harness Engineering",
+      "youtubeTitle": "Harness Engineering: How to Build Software When Humans Steer, Agents Execute \u2014\u00a0Ryan Lopopolo, OpenAI",
+      "channel": "AI Engineer",
+      "channelUrl": "https://www.youtube.com/@aiDotEngineer"
+    },
+    {
+      "id": "ShuJ_CN6zr4",
+      "url": "https://www.youtube.com/watch?v=ShuJ_CN6zr4",
+      "listedTitle": "Making Codebases Agent Ready",
+      "youtubeTitle": "Making Codebases Agent Ready \u2013 Eno Reyes, Factory AI",
+      "channel": "AI Engineer",
+      "channelUrl": "https://www.youtube.com/@aiDotEngineer"
+    },
+    {
+      "id": "TRjq7t2Ms5I",
+      "url": "https://www.youtube.com/watch?v=TRjq7t2Ms5I",
+      "listedTitle": "Building Production-Ready RAG Applications",
+      "youtubeTitle": "Building Production-Ready RAG Applications: Jerry Liu",
+      "channel": "AI Engineer",
+      "channelUrl": "https://www.youtube.com/@aiDotEngineer"
+    },
+    {
+      "id": "W_CYk2ogcDI",
+      "url": "https://www.youtube.com/watch?v=W_CYk2ogcDI",
+      "listedTitle": "RAG in 2025: State of the Art",
+      "youtubeTitle": "RAG in 2025: State of the Art and the Road Forward \u2014 Tengyu Ma, MongoDB (acq. Voyage AI)",
+      "channel": "AI Engineer",
+      "channelUrl": "https://www.youtube.com/@aiDotEngineer"
+    },
+    {
+      "id": "knDDGYHnnSI",
+      "url": "https://www.youtube.com/watch?v=knDDGYHnnSI",
+      "listedTitle": "GraphRAG: Knowledge Graphs Meet RAG",
+      "youtubeTitle": "GraphRAG: The Marriage of Knowledge Graphs and RAG: Emil Eifrem",
+      "channel": "AI Engineer",
+      "channelUrl": "https://www.youtube.com/@aiDotEngineer"
+    },
+    {
+      "id": "N7lJY5IKVLE",
+      "url": "https://www.youtube.com/watch?v=N7lJY5IKVLE",
+      "listedTitle": "AI Engineering 201: Inference",
+      "youtubeTitle": "[Workshop] AI Engineering 201: Inference",
+      "channel": "AI Engineer",
+      "channelUrl": "https://www.youtube.com/@aiDotEngineer"
+    },
+    {
+      "id": "Ahtaha9fEM0",
+      "url": "https://www.youtube.com/watch?v=Ahtaha9fEM0",
+      "listedTitle": "Introduction to LLM Serving with SGLang",
+      "youtubeTitle": "Introduction to LLM serving with SGLang - Philip Kiely and Yineng Zhang, Baseten",
+      "channel": "AI Engineer",
+      "channelUrl": "https://www.youtube.com/@aiDotEngineer"
+    },
+    {
+      "id": "V-EDrhIhHzQ",
+      "url": "https://www.youtube.com/watch?v=V-EDrhIhHzQ",
+      "listedTitle": "Modern Post-Training: A Deep Dive",
+      "youtubeTitle": "Modern Post-Training: A Deep Dive  \u2014 Will Brown, Prime Intellect",
+      "channel": "AI Engineer",
+      "channelUrl": "https://www.youtube.com/@aiDotEngineer"
+    },
+    {
+      "id": "640KMYtxCeI",
+      "url": "https://www.youtube.com/watch?v=640KMYtxCeI",
+      "listedTitle": "Building Multimodal AI Agents From Scratch",
+      "youtubeTitle": "Building Multimodal AI Agents From Scratch \u2014\u00a0Apoorva Joshi, MongoDB",
+      "channel": "AI Engineer",
+      "channelUrl": "https://www.youtube.com/@aiDotEngineer"
+    },
+    {
+      "id": "-OXiljTJxQU",
+      "url": "https://www.youtube.com/watch?v=-OXiljTJxQU",
+      "listedTitle": "Building Effective Voice Agents",
+      "youtubeTitle": "Building Effective Voice Agents \u2014 Toki Sherbakov + Anoop Kotha, OpenAI",
+      "channel": "AI Engineer",
+      "channelUrl": "https://www.youtube.com/@aiDotEngineer"
+    },
+    {
+      "id": "hCMrEfPG2Yg",
+      "url": "https://www.youtube.com/watch?v=hCMrEfPG2Yg",
+      "listedTitle": "Designing Generative UI for MCP Apps",
+      "youtubeTitle": "Beyond Components: Designing Generative UI for MCP Apps \u2014 Ruben Casas, Postman",
+      "channel": "AI Engineer",
+      "channelUrl": "https://www.youtube.com/@aiDotEngineer"
+    },
+    {
+      "id": "eLXF0VojuSs",
+      "url": "https://www.youtube.com/watch?v=eLXF0VojuSs",
+      "listedTitle": "Domain-Specific LLM Evaluation Systems",
+      "youtubeTitle": "How to Construct Domain Specific LLM Evaluation Systems: Hamel Husain and Emil Sedgh",
+      "channel": "AI Engineer",
+      "channelUrl": "https://www.youtube.com/@aiDotEngineer"
+    },
+    {
+      "id": "Xfl50508LZM",
+      "url": "https://www.youtube.com/watch?v=Xfl50508LZM",
+      "listedTitle": "Ship Real Agents: Hands-On Evals",
+      "youtubeTitle": "Ship Real Agents: Hands-On Evals for Agentic Applications \u2014 Laurie Voss, Arize",
+      "channel": "AI Engineer",
+      "channelUrl": "https://www.youtube.com/@aiDotEngineer"
+    },
+    {
+      "id": "0vphxNt4wyk",
+      "url": "https://www.youtube.com/watch?v=0vphxNt4wyk",
+      "listedTitle": "Do Not Ship Skills Without Evals",
+      "youtubeTitle": "Don't Ship Skills Without Evals \u2014 Philipp Schmid, Google DeepMind",
+      "channel": "AI Engineer",
+      "channelUrl": "https://www.youtube.com/@aiDotEngineer"
+    }
+  ]
+}
